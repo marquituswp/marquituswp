@@ -4,7 +4,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center"> 
   
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marquituswp)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/marquituswp](https://www.linkedin.com/in/marcoslopezgarau/))
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marcoslopezgarau@gmail.com)
 </div>
 
